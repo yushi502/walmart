@@ -7,3 +7,4 @@ Trial and error with a few different models ended up with an XGBoost having a hi
 
 Much more to learn!
 
+Update: will consider covariance for the next dataset, as I seemingly haven't considered in this case.
